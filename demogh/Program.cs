@@ -10,7 +10,7 @@ namespace demogh
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Xin chào các bạn!Hihi");
             Console.WriteLine("Hello word");
             Console.WriteLine("Hello word");
             Console.WriteLine("Hello word");
